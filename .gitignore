@@ -1,0 +1,6 @@
+data/*
+result/*
+bin/*
+.DS_Store
+build/
+!.gitkeep
